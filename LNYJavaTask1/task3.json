@@ -1,0 +1,83 @@
+{
+	"Schools": [
+		{
+			"Name": "School 1",
+			"Address": "Address 1",
+			"Year": 1980,
+			"Students": 500,
+			"Number": 4
+		},
+		{
+			"Name": "School 2",
+			"Address": "Address 2",
+			"Year": 1990,
+			"Students": 400,
+			"Number": 3
+		},
+		{
+			"Name": "School 3",
+			"Address": "Address 3",
+			"Year": 1985,
+			"Students": 800,
+			"Number": 5
+		},
+		{
+			"Name": "School 4",
+			"Address": "Address 4",
+			"Year": 2000,
+			"Students": 100,
+			"Number": 1
+		},
+		{
+			"Name": "School 5",
+			"Address": "Address 5",
+			"Year": 2010,
+			"Students": 200,
+			"Number": 6
+		},
+		{
+			"Name": "School 6",
+			"Address": "Address 6",
+			"Year": 1975,
+			"Students": 1000,
+			"Number": 2
+		}
+	],
+	"Universities": [
+		{
+			"Name": "University 1",
+			"Address": "Address 7",
+			"Year": 1860,
+			"Faculties": 54,
+			"Level": 2
+		},
+		{
+			"Name": "University 2",
+			"Address": "Address 8",
+			"Year": 1730,
+			"Faculties": 331,
+			"Level": 4
+		},
+		{
+			"Name": "University 3",
+			"Address": "Address 9",
+			"Year": 2000,
+			"Faculties": 20,
+			"Level": 1
+		},
+		{
+			"Name": "University 4",
+			"Address": "Address 10",
+			"Year": 1850,
+			"Faculties": 100,
+			"Level": 4
+		},
+		{
+			"Name": "University 5",
+			"Address": "Address 11",
+			"Year": 1950,
+			"Faculties": 70,
+			"Level": 3
+		}
+	]
+}
